@@ -36,7 +36,7 @@ Wasser mischen. Ansonsten:
   nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine
   Falte entsteht.
 * Einen Laib formen und diesen mit der eingerissenen Seite nach unten (ggf. mit dem Messer Schnitte
-  einfügen) in einem Gärkorb (oder Sieb mit mehlbestäubtem Tuch) nochmals 1-3h gehen lassen. Wenn kein Gärkorb zur Verfügung steht, funktioniert diese Schichtreihenfolge: Schüssel, Tuch, Mehl, Brotteig.
+  einfügen) in einem Gärkorb (oder Sieb mit mehlbestäubtem Tuch) nochmals 1-3h gehen lassen. Wenn kein Gärkorb zur Verfügung steht, funktioniert diese Schichtreihenfolge: Nudelsieb, Tuch, Mehl, Brotteig.
 * Den Gärkorb auf dem Backblech "auskippen" und so den Laib auf das Backblech legen.
 * Bei 200°C mit Ober- und Unterhitze 60 Minuten ausbacken, bis das Brot hohl
   klingt oder 40 Minuten ausbacken und weitere 40 Minuten im geschlossenen Ofen
