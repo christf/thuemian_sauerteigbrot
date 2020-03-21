@@ -49,3 +49,34 @@ Wasser mischen. Ansonsten:
   ruhen lassen.
 * Das Brot dem Ofen entnehmen und auf einem Rost auskühlen lassen.
 
+
+# Was schief gehen kann
+
+## Mein Brot ist klein, hart und macht plong!
+
+Nimm mehr Wasser
+
+## Mein Brot schmeckt sauer
+
+Gehzeiten einhalten und nicht deutlich länger gehen lassen
+
+
+## Mein Brot wird ein frecher, flacher Freund
+
+Gehzeiten einhalten. Beim längeren Gehen wird das Ergebnis meist flach.
+
+## Mein Sauerteig stinkt!
+
+Wenn es stinkt, ist irgendetwas im Teig, dass man nicht essen möchte.
+Den Teig entsorgen und ein Backup einspielen. In diesem Fall etwas besser auf Hygiene achten:
+
+* immer einen frischen Löffel nutzen
+* Das Glas für die Lagerung heiß und gründlich spülen
+
+## Mein Sauerteig verändert die Farbe
+
+Normalerweise ist ein Sauerteig rosa bis leicht hellbräunlich. Eine leichte 
+Farbänderung während seines Lagerzyklus ist normal. Lagert sich dunkelbraunes, 
+grünes oder gelbes Material ab, hat man vermutlich auch das Thema mit dem 
+Geruch. Wenn einem irgend etwas komisch vorkommt, wie in diesem Fall, den Teig 
+entsorgen und Backup einspielen.
