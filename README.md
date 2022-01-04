@@ -4,7 +4,10 @@
 
 Nach 14 Tagen muss der Teig gefüttert werden. Wenn kein
 Brot gebacken werden soll, den Teig teilen und jeweils mit 40g Mehl und 40ml
-Wasser mischen. Ansonsten:
+Wasser mischen. Einen solchen Ableger kann man gut bei brotbackfreudigen 
+Freunden unterbringen. So kann man auch ein Backup wieder einspielen, falls der 
+eigene Teig umkippt (Wenn das passiert, merkt man das am unappetitlichen 
+Geruch). Ansonsten:
 
 ### Zutaten
 * 150g Vorteig
