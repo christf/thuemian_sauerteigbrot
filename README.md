@@ -14,7 +14,7 @@ Wasser mischen. Ansonsten:
 ### Zubereitung
 
 * Die Zutaten vermischen und über Nacht ruhen lassen.
-* 150g Teig abnehmen. Diese können vor der nächsten Verwendung
+* 150g (6 EL) Teig abnehmen. Diese können vor der nächsten Verwendung
   zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
   altern.
 * Die restlichen 500g der Masse zu Brot verarbeiten.
@@ -25,7 +25,7 @@ Wasser mischen. Ansonsten:
 * 300g Roggenmehl
 * 200g Weizenmehl / Dinkelmehl (Mehlsorten beliebig kombinierbar. Gut geht Typ 1050)
 * 200ml Wasser.
-* 12g Salz
+* 12g (1 EL) Salz
 
 ### Optionale Zutaten:
 
