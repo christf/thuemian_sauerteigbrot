@@ -23,7 +23,7 @@ Wasser mischen. Ansonsten:
 ### Zutaten
 * 500g Vorteig
 * 300g Roggenmehl
-* 200g Weizenmehl / Dinkelmehl (Mehlsorten beliebig kombinierbar)
+* 200g Weizenmehl / Dinkelmehl (Mehlsorten beliebig kombinierbar. Gut geht Typ 1050)
 * 200ml Wasser.
 * 12g Salz
 
