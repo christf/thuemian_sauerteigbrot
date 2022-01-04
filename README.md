@@ -47,7 +47,8 @@ das Backup nutzen. Die Zubereitung des Vorteigs funktioniert wie folgt:
 ### Zubereitung
 
 * Die Zutaten gut vermischen. Der Teig muss klebrig sein.
-* 1-3h abgedeckt in der Rührschüssel bei Zimmertemperatur gehen lassen
+* 1-3h mit einem feuchten Geschirrtuch (damit die obere Schicht nicht 
+  antrocknet) abgedeckt in der Rührschüssel bei Zimmertemperatur gehen lassen
 * Auf der Arbeitsplatte mit viel Mehl den Teig zusammenstoßen und von außen
   nach innen kneten, sodass auf einer Seite Spannung und auf der anderen eine
   Falte entsteht.
