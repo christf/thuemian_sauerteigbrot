@@ -1,4 +1,8 @@
-# Bedienungsanleitung Thümian-Sauerteigbrot
+# Bedienungsanleitung Thümian-Sauerteigbrot®
+
+Das ist die Vorgehensweise um ein leckeres Roggen-Mischbrot zu backen, wie es 
+bei Familie Thüm oft geschieht. 
+
 
 ## Vorteig
 
