@@ -6,28 +6,28 @@ bei Familie Thüm oft geschieht.
 
 ## Vorteig
 
-Nach 14 Tagen muss der Teig gefüttert werden. Wenn kein
-Brot gebacken werden soll, den Teig teilen und jeweils mit 40g Mehl und 40ml
-Wasser mischen. Einen solchen Ableger kann man gut bei brotbackfreudigen 
-Freunden unterbringen. So kann man auch ein Backup wieder einspielen, falls der 
-eigene Teig umkippt (Wenn das passiert, merkt man das am unappetitlichen 
-Geruch). Ansonsten:
+Spätestens nach 14 Tagen muss der Sauerteig gefüttert werden. Beim Herstellen 
+von Vorteig passiert das. Soll kein Brot gebacken werden, den Teig teilen und 
+jeweils mit 40g Mehl und 40ml Wasser mischen. Einen solchen Ableger kann man 
+gut nutzen um ein Backup anzulegen. Kippt der eigene Teig um, kann man 
+das Backup nutzen. Die Zubereitung des Vorteigs funktioniert wie folgt:
 
 ### Zutaten
-* 150g Vorteig
+
+* 150g Sauerteig
 * 250g Roggenmehl
 * ca 275-300ml Wasser
 
 ### Zubereitung
 
 * Die Zutaten vermischen und über Nacht ruhen lassen.
-* 150g (6 EL) Teig abnehmen. Diese können vor der nächsten Verwendung
+* 150g (6 EL) Sauerteig abnehmen. Diese können vor der nächsten Verwendung
   zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage in einem fest
   verschlossenen Schraubglas im Kühlschrank altern. Das Volumen des Teigs 
   verändert sich in dieser Zeit deutlich. Das ist normal und sollte bei der Wahl des Glases 
   eingeplant werden. Mein Glas ist 3x so groß wie der 150g-Teigklecks, der am Anfang 
   rein kommt.
-* Die restlichen 500g der Masse zu Brot verarbeiten.
+* Die restlichen 500g der Masse sind nun der Vorteig, der zu Brot verarbeitet wird.
 
 ## Das Brot
 ### Zutaten
