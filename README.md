@@ -18,8 +18,11 @@ Geruch). Ansonsten:
 
 * Die Zutaten vermischen und über Nacht ruhen lassen.
 * 150g (6 EL) Teig abnehmen. Diese können vor der nächsten Verwendung
-  zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage im Kühlschrank
-  altern.
+  zwischen 1/2 Tag bei Zimmertemperatur oder bis zu 14 Tage in einem fest
+  verschlossenen Schraubglas im Kühlschrank altern. Das Volumen des Teigs 
+  verändert sich in dieser Zeit deutlich. Das ist normal und sollte bei der Wahl des Glases 
+  eingeplant werden. Mein Glas ist 3x so groß wie der 150g-Teigklecks, der am Anfang 
+  rein kommt.
 * Die restlichen 500g der Masse zu Brot verarbeiten.
 
 ## Das Brot
